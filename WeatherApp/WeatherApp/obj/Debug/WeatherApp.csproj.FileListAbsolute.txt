@@ -1,0 +1,9 @@
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.formWeather.resources
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Moon Vibes\Documents\GitHub\WatherApp-Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
